@@ -8,6 +8,10 @@ O projeto foi desenvolvido para o meu TCC do curso de Sistemas de Informação d
 
 [https://repositorio.ifsc.edu.br/handle/123456789/2501](https://repositorio.ifsc.edu.br/handle/123456789/2501)
 
-## Preview
+Com base no TCC, também foi realizada a escrita de um artigo que foi aprovado e publicado pela RBCA (Revista Brasileira de Computação Aplicada), acessível no link abaixo.
+
+[https://seer.upf.br/index.php/rbca/article/view/15036](https://seer.upf.br/index.php/rbca/article/view/15036)
+
+## Preview do Protótipo
 
 ![Preview do Aplicativo](media/prototipo.png)
